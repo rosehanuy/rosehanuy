@@ -8,5 +8,6 @@ I'm a graduate student in geography/GIS/environmental science at Hunter College.
 - 🔭 I’m currently working on a transferable machine learning model to monitor tree canopy in urban and suburban areas.
 - 🌱 I’m passionate about environmental conservation and urban sustainability.
 - 📚 My academic interests include remote sensing, geospatial analysis, and carbon cycling.
+- ➡ Here I am on [LinkedIn](https://www.linkedin.com/in/rosemarymcguinness/)
 
 
