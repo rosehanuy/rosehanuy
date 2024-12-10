@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently working as a research assistant at the CUNY Advanced Science Research Center. I graduated from Hunter College with an MA in Geography/GIS in 2024. 
+I'm currently working as a research assistant at the CUNY Advanced Science Research Center. I graduated from Hunter College with an MA in Geography/GIS. 
 
 
 
